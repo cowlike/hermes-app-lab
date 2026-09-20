@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+.aws/
+.ssh/
+.terraform/
+terraform.tfstate*
+node_modules/
+bin/
+obj/
+
